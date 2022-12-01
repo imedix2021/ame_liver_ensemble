@@ -1,3 +1,0 @@
-# ame_liver_ensemble
-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
-git clone https://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@github.com/imedix2021/ame_liver_ensemble.git
